@@ -27,8 +27,6 @@ I turn messy data into clear decisions. I completed my B.S. in Health Informatio
 
 ## 📂 Projects
 
-## 📂 Projects
-
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [TOXITRACK](https://github.com/cferley/toxitrack) | Food safety alert app — live on Apple App Store & Google Play | React Native, Expo, Supabase, Python |
