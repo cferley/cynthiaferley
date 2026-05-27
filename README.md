@@ -27,18 +27,20 @@ I turn messy data into clear decisions. I completed my B.S. in Health Informatio
 
 ## 📂 Projects
 
+## 📂 Projects
+
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [TOXITRACK](https://github.com/cferley/toxitrack) | Food safety alert app — live on Apple App Store & Google Play | React Native, Expo, Supabase, Python |
-| [Capstone Project](https://github.com/cferley/capstone-project) | HIIM capstone — health data analytics | Python, Tableau, Excel |
-| [Tableau Projects](https://github.com/cferley/tableau-projects) | Data dashboards and visualizations | Tableau |
-| [SQL Projects](https://github.com/cferley/sql-projects) | Queries, schemas, and database work | MySQL, DB2 |
+| [Capstone Project](https://github.com/cferley/capstone-project) | Medicare hospital data analytics dashboard (278K records, 60/60) | Python, Pandas, Matplotlib, Panel |
+| [Tableau Projects](https://github.com/cferley/tableau-projects) | Data dashboards and visualizations — including a Featured viz on Tableau Public | Tableau |
+| [SQL Projects](https://github.com/cferley/sql-projects) | Queries, database analysis, and log auditing work | MySQL, DB2 |
 
 ---
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/cynthia-ferley)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cynthia-ferley/)
 - 🌐 [TOXITRACK App](https://toxitrack.app)
 
 ---
